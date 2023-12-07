@@ -1,1 +1,3 @@
 # MAPAtopicosDEZ23
+A integração contínua utiliza de uma ferramenta como o Git hub para a integração dos códigos que foram alterados por diversos desenvolvedores que participam do projeto de construção dos programas. O uso de ramificações permite que várias pessoas trabalhem em diferentes partes do projeto sem interferência uma das outras. Para atualizar uma ramificação é realizado um merge criando um novo commit que combina as alterações, enquanto o merge move os commits para o topo da árvore de commits.
+Essa nova ramificação permite ser usada em novos recursos, correções de bugs e em experimentos sem afetar diretamente a ramificação principal. 
